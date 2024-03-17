@@ -1,5 +1,5 @@
-# Swift-UI-List-lesson-
-SwiftUI List lesson - string interpolation
+# SwiftUI Lists lesson
+SwiftUI List lesson - make use of `string interpolation` for numbers.<br>
 ![Screenshot 2024-03-17 at 6 27 01 AM](https://github.com/danielurra/Swift-UI-List-lesson-/assets/51704179/362c6599-9b71-46ef-9736-2d5b51be5a71)
 ## Grab the code
 ```swift
