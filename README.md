@@ -15,7 +15,7 @@ import SwiftUI
 struct JournalEntriesListView: View {
     
     var dogsDanny = ["Pluto", "Cacho", "Diana", "Lassie"]
-    var numbersDanny = [1,6,55,789]
+    let numbersDanny = [1,6,55,789]
     
     var body: some View {
         List(dogsDanny, id: \.self) { listedDog in
