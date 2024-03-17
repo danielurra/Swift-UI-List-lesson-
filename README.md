@@ -1,6 +1,6 @@
 # SwiftUI Lists lesson
 SwiftUI List lesson - make use of `string interpolation` for numbers.<br>
-![Screenshot 2024-03-17 at 6 27 01 AM](https://github.com/danielurra/Swift-UI-List-lesson-/assets/51704179/362c6599-9b71-46ef-9736-2d5b51be5a71)
+![Screenshot 2024-03-17 at 6 32 32 AM](https://github.com/danielurra/Swift-UI-List-lesson-/assets/51704179/fde1c89e-699a-47a6-b978-286d1b1a812e)<br>
 ## Grab the code
 ```swift
 //
